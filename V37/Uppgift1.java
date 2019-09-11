@@ -12,7 +12,7 @@ public class Uppgift1 {
 		System.out.println("Det totala är " + total);
 
 	}
-	
+
 	public static int Nae(Scanner sc) {
 		int total = 0;
 		int i=0;
